@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.sqlite3
+*.db
+*.h5
+*.hdf5
+*.pth
+*.ckpt
+*.pt
+*.onnx
+*.npz
+*.npy
+*.csv
+*.zip
+*.tar.gz
+*.tar
+*.ipynb_checkpoints/
+.env
+.venv
+venv/
+ENV/
+.envrc
+.idea/
+.vscode/
+.DS_Store
+# Data
+/data/
+/models/
+/checkpoints/
+/old_weights/
+# Jupyter
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db
+# VSCode
+.vscode/
